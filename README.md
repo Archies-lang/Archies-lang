@@ -24,12 +24,14 @@ MS Software Engineering @ Arizona State University
 - Optimized backend workflows, improving query response time by ~30%
 - Supports natural language queries powered by LLM + RAG pipeline
 - Implemented retrieval-augmented generation (RAG) pipeline for context-aware responses
+- Enables developers to understand large codebases faster and debug efficiently
 ####  Demo 
 Below is the CodeGraph AI dashboard. Users can:
 - Upload a code repository
 - Query the codebase using natural language
 - Perform automated code analysis
-[![CodeGraph AI Dashboard](https://github.com/user-attachments/assets/7a9f9902-6a2f-48ad-b5b5-3e922986b8d7)](https://github.com/Archies-lang/AI-Code-Intelligence-Platform)
+[![CodeGraph AI Dashboard](https://github.com/user-attachments/assets/f0625dc3-a5f1-480b-8bc9-94f36ffa4b5c)](https://github.com/Archies-lang/AI-Code-Intelligence-Platform)
+
 
 ---
 
@@ -46,7 +48,7 @@ Below is the CodeGraph AI dashboard. Users can:
 ## 🛠 Tech Stack
 - **Languages:** Python, JavaScript, SQL  
 - **Backend:** FastAPI, REST APIs  
-- **AI/ML:** RAG, LLMs, OpenAI APIs, FAISS, Scikit-learn 
+- **AI/ML:** Retrieval-Augmented Generation (RAG), FAISS, OpenAI API, FAISS, Scikit-learn 
 - **Data:** Pandas, NumPy  
 - **Tools:** Git, Docker, VS Code   
 
