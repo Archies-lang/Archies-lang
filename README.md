@@ -1,70 +1,80 @@
 # Hi, I'm Archies 
 
-AI Engineer building LLM-powered systems, backend APIs, and data pipelines  
-Focused on scalable AI applications & real-world problem solving  
-MS Software Engineering @ Arizona State University 
+Software Engineer focused on AI/ML systems, backend engineering, and scalable applications.
 
----
+M.S. Software Engineering @ Arizona State University  
+Tempe, Arizona
 
-##  About Me
-- Building **AI-powered applications using LLMs**
-- Designing **scalable backend systems (FastAPI, APIs)**
-- Creating **data pipelines & machine learning workflows**
+Interested in Software Engineering, AI/ML Engineering, Backend Engineering, and Forward Deployed Engineering roles.
 
----
+## What I Build
 
-##  Featured Projects
+- LLM-powered applications and RAG systems
+- REST APIs and backend services using FastAPI / Spring Boot
+- Machine learning and data-processing pipelines
+- Containerized applications using Docker
+- Full-stack applications using React, Next.js, and Vue
 
-###  AI Code Intelligence Platform
-🔗 https://github.com/Archies-lang/AI-Code-Intelligence-Platform  
+## Featured Engineering Projects
 
-- Built a full-stack AI system to **analyze and query 10K+ lines of code** using FastAPI + Streamlit  
-- Integrated LLMs with retrieval workflows (RAG) to provide **context-aware code insights**  
-- Designed **5+ REST API endpoints** for querying, authentication, and real-time processing  
-- Optimized backend workflows, improving query response time by ~30%
-- Supports natural language queries powered by LLM + RAG pipeline
-- Implemented retrieval-augmented generation (RAG) pipeline for context-aware responses
-- Enables developers to understand large codebases faster and debug efficiently
-####  Demo 
-Below is the CodeGraph AI dashboard. Users can:
-- Upload a code repository
-- Query the codebase using natural language
-- Perform automated code analysis
-[![CodeGraph AI Dashboard](https://github.com/user-attachments/assets/f0625dc3-a5f1-480b-8bc9-94f36ffa4b5c)](https://github.com/Archies-lang/AI-Code-Intelligence-Platform)
+### AI Code Intelligence Platform
+Production-oriented RAG system for understanding and querying large codebases.
+
+**Python • FastAPI • OpenAI • FAISS • Docker • RAG**
+
+- Semantic code search across multi-file repositories
+- Embedding and vector indexing pipeline
+- Context-aware codebase Q&A
+- REST API architecture
+- Containerized deployment
+- Evaluation and hallucination mitigation
+
+https://github.com/Archies-lang/AI-Code-Intelligence-Platform
+
+###  Valorant Competitive Analytics
+Machine-learning and analytics pipeline for competitive Valorant match data.
+
+**Python • Pandas • scikit-learn • Matplotlib**
+
+- Processed 150K+ competitive match records
+- Engineered features for player and match-level analysis
+- Applied logistic regression for predictive modeling
+- Automated data cleaning, transformation, and visualization workflows
+
+https://github.com/Archies-lang/Valorant-competitive-analytics-pipeline
+
+###  Elder Abuse Prevention Platform
+Full-stack capstone application with automated testing and CI/CD.
+
+**Java • Spring Boot • Vue • PostgreSQL • Playwright • Docker**
+
+- Developed and tested full-stack application workflows
+- Built and validated REST-based application functionality
+- Implemented automated end-to-end testing with Playwright
+- Worked with Docker-based deployment and collaborative Git workflows
 
 
----
+##  Engineering Stack
 
-###  Valorant Competitive Analytics Pipeline
-🔗 https://github.com/Archies-lang/Valorant-competitive-analytics-pipeline  
+**Languages**  
+`Python` `Java` `C++` `TypeScript` `JavaScript` `SQL`
 
-- Built an end-to-end data pipeline to process **150,000+ match records** using Python & Pandas  
-- Engineered ML models (logistic regression) to **predict match outcomes with high accuracy**  
-- Automated data cleaning, transformation, and visualization workflows  
-- Generated actionable insights on player performance and win trends  
+**Backend**  
+`FastAPI` `Spring Boot` `REST APIs` `PostgreSQL` `MongoDB`
 
----
+**AI / ML**  
+`PyTorch` `scikit-learn` `RAG` `Embeddings` `FAISS` `LangChain`
 
-## 🛠 Tech Stack
-- **Languages:** Python, JavaScript, SQL  
-- **Backend:** FastAPI, REST APIs  
-- **AI/ML:** Retrieval-Augmented Generation (RAG), FAISS, OpenAI API, FAISS, Scikit-learn 
-- **Data:** Pandas, NumPy  
-- **Tools:** Git, Docker, VS Code   
+**Frontend**  
+`React` `Next.js` `Vue`
 
----
+**Cloud & DevOps**  
+`Docker` `AWS` `Kubernetes` `Terraform` `GitHub Actions`
 
-##  Currently Improving
-- Scaling AI systems for production
-- Strengthening frontend (React)
+**Testing**  
+`Playwright` `JUnit` `Pytest` `CodeQL`
 
----
 
-##  Connect
-🔗 LinkedIn: https://www.linkedin.com/in/archies-bhandary/
+## Connect
 
----
-
-Passionate about building scalable AI systems that solve real-world problems
-Open to AI / Backend / Software Engineering Internships  
-Let’s connect and build something impactful!
+[[LinkedIn]](https://www.linkedin.com/in/archies-bhandary/)
